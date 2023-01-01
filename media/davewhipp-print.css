@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 60%;
 }
@@ -72,9 +72,9 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #444;
+	white-space: pre;
 }
 
 p code {
@@ -83,27 +83,32 @@ p code {
 	right: -20%;
 }
 
-
-ul {
+ul,dl {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 60%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
+/*dashes in the list*/
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
+}
+
+dt {
+	margin-top: 0.5em;
+}
+
+dd {
+	padding-left: 1.25em;
 }
 
 li ul {
@@ -129,14 +134,12 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	padding-left: 0.25em;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
-	margin-top: 2em;
+	margin-top: 1em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
@@ -147,7 +150,6 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -167,7 +169,6 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
@@ -178,14 +179,15 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e
 }
 
 strong {
 	font-weight: bold;
+	width: 85%;
+	display: inline-block;
 }
 
-#ghbutton {
+#ghbutton, #pdf {
 	display: none;
 	visibility: hidden;
 }
