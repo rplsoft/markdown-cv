@@ -18,7 +18,7 @@ title: RPLSoft | Paul Kröner
 
 ## Aktuell
 
-Freiberuflicher Software-Entwickler, wohnhaft in Backnang (Großraum Stuttgart).
+Freiberuflicher Software-Entwickler, wohnhaft in 71522 Backnang (Großraum Stuttgart).
 
 ### Vorstellung
 
