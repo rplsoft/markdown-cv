@@ -22,9 +22,9 @@ Freiberuflicher Software-Entwickler, wohnhaft in Backnang (Großraum Stuttgart).
 
 ### Vorstellung
 
-Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Dabei waren auch immer diverse Datenbanken und Frontends im Spiel. Bezüglich Bibliotheken habe ich besonders viel Erfahrung mit [AutoMapper](https://automapper.org/), [Autofac](https://autofac.org/) und [NHibernate](https://nhibernate.info/).
+Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Mit dabei waren auch immer diverse Datenbanken und Frontends. Bezüglich Bibliotheken habe ich besonders viel Erfahrung mit [AutoMapper](https://automapper.org/), [Autofac](https://autofac.org/) und [NHibernate](https://nhibernate.info/).
 
-Sauberer, gepflegter Code, automatisierte Tests und Dokumentation gehören für mich zum guten Ton. Meine Arbeit organisiere ich am liebsten in einem Ticketsystem. Eine Versionsverwaltung zur Ablage von Dokumenten und Quellcode bildet die Grundlage, hier habe ich Erfahrung mit SVN, HG/Mercurial und Git. Für sehr hilfreich halte ich eine Build-Pipeline bzw. Continuous Integration (hier habe ich einige Erfahrung mit JetBrains TeamCity).
+Sauberer und gepflegter Code, automatisierte Tests und Dokumentation gehören für mich zum guten Ton. Meine Arbeit organisiere ich am liebsten in einem Ticketsystem. Eine Versionsverwaltung zur Ablage von Dokumenten und Quellcode bildet die Grundlage, hier habe ich Erfahrung mit SVN, HG/Mercurial und Git. Für sehr hilfreich halte ich eine Build-Pipeline bzw. Continuous Integration (hier habe ich viel Erfahrung mit JetBrains TeamCity).
 
 Grundsätzlich scheue ich keine Herausforderung und freue mich auf interessante Projekte, neue Technologien und eine gute Zusammenarbeit.
 
