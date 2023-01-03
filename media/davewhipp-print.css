@@ -49,16 +49,10 @@ table {
 
 /* end of reset */
 
-
-
 body {
-	font: normal normal 400;
 	font-size: 12pt;
 	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
 }
 
 p {
@@ -66,11 +60,10 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 60%;
+	width: 70%;
 }
 
 code {
-	font: normal normal;
 	font-size: 90%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #444;
@@ -86,7 +79,7 @@ p code {
 ul,dl {
 	position: relative;
 	left: 25%;
-	width: 60%;
+	width: 70%;
 	margin-bottom: 1em;
 }
 
@@ -144,6 +137,7 @@ h2 {
 	top: 1.2em;
 	text-align: right;
 	width: 20%;
+	text-decoration: underline;
 }
 
 

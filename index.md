@@ -34,13 +34,13 @@ Fahrrad, Reisen, Kochen, Backen, Garten
 
 ## Berufliche Erfahrung
 
-`01.2020 - 12.2022`
+### `01.2020 - 12.2022`
 **Softwareentwicklung nebenberuflich**
 
 Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswertung von Klausurprüfungen\
 (Python, Django, ReactJS, SQLite, Docker)
 
-`12.2015 - 12.2022`
+### `12.2015 - 12.2022`
 **Softwareentwickler L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
 2020-2022
@@ -64,7 +64,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 : Konzeption, Entwicklung von Anpassungen und Betreuung / Wartung von Kundenprojekten
 : (C#, JavaScript, MSSQL)
 
-`10.2011 – 11.2015`
+### `10.2011 – 11.2015`
 **Softwareentwickler iSILOG GmbH, später EDAG Production Solutions GmbH & Co. KG, Baden-Baden**
 
 2013-2015
@@ -91,7 +91,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 - Simulationsprojekte mit Plant Simulation
 - Administration IT Infrastruktur
 
-`10.2008 - 10.2011`
+### `10.2008 - 10.2011`
 **Duales Studium**
 
 - Simulationsprojekte, Neu- und Weiterentwicklung von Bausteinbibliotheken für Siemens Plant Simulation (Materialflusssimulation)
@@ -100,7 +100,7 @@ Xcelgo Experior (Virtuelle Inbetriebnahme)
 
 ## Ausbildung
 
-`10.2008 - 10.2011`
+### `10.2008 - 10.2011`
 **DHBW Karlsruhe**
 
 Studiengang
@@ -115,22 +115,22 @@ Abschluss
 : Bachelor of Science (B.Sc.)
 : (Note: 1,8)
 
-`04.2008 – 10.2008`
+### `04.2008 – 10.2008`
 **Praktikum in Firma iSILOG GmbH, Bühl**
 
 Entwicklung einer Offline-Schnittstelle zwischen Plant Simulation und Cinema4D zur automatischen Animationserstellung auf Basis von Simulationsdaten
 
-`10.2003 – 04.2008`
+### `10.2003 – 04.2008`
 **Technische Universität Ilmenau**
 
 Informatik, Nebenfach: Automatisierungstechnik
 
-`09.1995 – 06.2003`
+### `09.1995 – 06.2003`
 **Gymnasium Klosterschule Roßleben**
 
 Abitur / Allgemeine Hochschulreife (Note: 2,6)
 
-`10.2000 - 06.2001`
+### `10.2000 - 06.2001`
 **Van Wert High School**
 
 Austauschschüler in Van Wert, OH (USA)
