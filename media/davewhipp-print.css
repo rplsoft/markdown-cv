@@ -171,6 +171,11 @@ a:hover {
 	text-decoration: none;
 }
 
+#ghbutton, #links {
+	display: none;
+	visibility: hidden;
+}
+
 em {
 	font-style: normal;
 }
@@ -180,11 +185,3 @@ strong {
 	width: 85%;
 	display: inline-block;
 }
-
-#ghbutton, #pdf {
-	display: none;
-	visibility: hidden;
-}
-
-
-

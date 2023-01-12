@@ -1,20 +1,27 @@
 ---
 layout: cv
 title: RPLSoft | Paul Kröner
+permalink: /
 ---
 
 # Paul Kröner
   Software Engineer
 
 <div id="webaddress">
-	<a href="mailto:paul.kroener@rplsoft.de">paul.kroener@rplsoft.de</a>
-	<div id="pdf">
-		Dieses Dokument als 
-		<a href="/assets/pdf/cv.pdf">PDF</a> oder 
-		<a href="javascript:if(window.print)window.print()">Drucken</a>
+	<div>
+		<a href="mailto:paul.kroener@rplsoft.de">paul.kroener@rplsoft.de</a>
+	</div>
+	<div id="links">
+		<div>
+			<a href="/en">English?</a>
+		</div>
+		<div>
+			Dieses Dokument als 
+			<a href="/assets/pdf/cv-kroener-de.pdf">PDF</a> oder 
+			<a href="javascript:if(window.print)window.print()">Drucken</a>
+		</div>
 	</div>
 </div>
-
 
 ## Aktuell
 
@@ -22,9 +29,9 @@ Freiberuflicher Software-Entwickler, wohnhaft in 71522 Backnang (Großraum Stutt
 
 ### Vorstellung
 
-Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Mit dabei waren auch immer diverse Datenbanken und Frontends. Bezüglich Bibliotheken habe ich besonders viel Erfahrung mit [AutoMapper](https://automapper.org/), [Autofac](https://autofac.org/) und [NHibernate](https://nhibernate.info/).
+Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Angebunden waren dabei waren auch immer diverse Datenbanken (u.a. MSSQL, SQLite, Oracle) und Frontends (TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS). Bezüglich .NET Bibliotheken habe ich besonders viel Erfahrung mit [AutoMapper](https://automapper.org/), [Autofac](https://autofac.org/) und [NHibernate](https://nhibernate.info/).
 
-Sauberer und gepflegter Code, automatisierte Tests und Dokumentation gehören für mich zum guten Ton. Meine Arbeit organisiere ich am liebsten in einem Ticketsystem. Eine Versionsverwaltung zur Ablage von Dokumenten und Quellcode bildet die Grundlage, hier habe ich Erfahrung mit SVN, HG/Mercurial und Git. Für sehr hilfreich halte ich eine Build-Pipeline bzw. Continuous Integration (hier habe ich viel Erfahrung mit JetBrains TeamCity).
+Sauberer und gepflegter Code, automatisierte Tests und Dokumentation gehören für mich dazu. Meine Arbeit organisiere ich am liebsten in einem Ticketsystem. Eine Versionsverwaltung zur Ablage von Code und Dokumenten bildet die Grundlage. Für sehr hilfreich halte ich eine Build-Pipeline bzw. Continuous Integration (hier habe ich viel Erfahrung mit [JetBrains TeamCity](https://www.jetbrains.com/teamcity/)).
 
 Grundsätzlich scheue ich keine Herausforderung und freue mich auf interessante Projekte, neue Technologien und eine gute Zusammenarbeit.
 
@@ -41,10 +48,10 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 (Python, Django, ReactJS, SQLite, Docker)
 
 ### `12.2015 - 12.2022`
-**Softwareentwickler L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
+**Softwareentwickler - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
 2020-2022
-: Schnittstellenentwicklung zur Datenreplikation zwischen ERP und Field Service Management Software / CRM per OData API
+: Schnittstellenentwicklung zur Datenreplikation (Import / Export) zwischen ERP und Field Service Management Software / CRM per OData API
 : ERPs u.a. proALPHA, InforCOM, SAP Business One
 : (C#, SQLite, MSSQL, Oracle, HANA)
 
@@ -53,7 +60,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 : (C#, ASP.NET, WebAPI)
 
 2016-2022
-: Wartung und Weiterentwicklung einer Field Service Management Software, bzw. CRM
+: Wartung und Weiterentwicklung einer Field Service Management Software / CRM
 : (C#, ASP.NET, JavaScript, MSSQL)
 
 2016-2022
@@ -65,7 +72,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 : (C#, JavaScript, MSSQL)
 
 ### `10.2011 – 11.2015`
-**Softwareentwickler iSILOG GmbH, später EDAG Production Solutions GmbH & Co. KG, Baden-Baden**
+**Softwareentwickler - iSILOG GmbH, später EDAG Production Solutions GmbH & Co. KG, Baden-Baden**
 
 2013-2015
 : Entwicklung webbasierter Lösung zur Planung, Simulation und Auswertung von Wertströmen
@@ -76,7 +83,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 : (C#, MSSQL)
 
 2011-2015
-: Entwicklung Plugin für Systems Navigator Scenario Navigator zur Planungsunterstützung mittels Wertstromanalyse und –simulation 
+: Entwicklung Plugin für Systems Navigator&reg; Scenario Navigator zur Planungsunterstützung mittels Wertstromanalyse und –simulation 
 : (C#, MSSQL)
 
 2011-2015
@@ -107,8 +114,7 @@ Studiengang
 : Angewandte Informatik, Vertiefung: Softwareentwicklung
 
 Bachelorarbeit
-: &bdquo;Durchgängige Simulation und virtuelle Inbetriebnahme komplexer
-Materialflusssysteme&ldquo;
+: &bdquo;Durchgängige Simulation und virtuelle Inbetriebnahme komplexer Materialflusssysteme&ldquo;
 : (Note: 1,3)
 
 Abschluss
