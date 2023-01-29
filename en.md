@@ -30,15 +30,9 @@ Freelance Software Engineer, living in Germany, 71522 Backnang (near Stuttgart).
 
 ### Introduction
 
-Hello, my name is Paul, born in 1984. I am a passionate Software Engineer. In the last years my main focus was with .NET / ASP.NET, developing web applications and APIs. Part of this were always different databases (including MSSQL, SQLite, Oracle) and front ends (including TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS). Regarding .NET libraries, I have a lot of experience with [AutoMapper](https://automapper.org/), [Autofac](https://autofac.org/) and [NHibernate](https://nhibernate.info/).
-
-Clean and maintained code, automated tests and documentation are a normal part of my work. I like to organize my work in a issue tracking system. A version control system to manage code and documents forms the basis.
+Hello, my name is Paul, born in 1984. I am a passionate Software Engineer. In the last years my main technical focus was .NET / ASP.NET, developing web applications and APIs. Part of this were always different databases (including MSSQL, SQLite, Oracle) and front ends (including TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS).
 
 I don't shy away from any challenge and am looking forward to interesting projects, new technologies and doing great work together.
-
-### Interests / Hobbies
-
-Bicycle, traveling, cooking, baking, gardening
 
 ## Work experience
 
@@ -51,6 +45,9 @@ Developing a web based software to automate creation and analysis of written exa
 ### `12.2015 - 12.2022`
 **Software Developer - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
+Working in an agile team in product development. This included bug fixing, feature development and conception, software architecture and interface design to ensure working interaction of the various components. Additionally maintaining the build pipeline and creating documentation and training materials.
+
+<br>
 2020-2022
 : Developing an interface between ERP and a Field Service Management Software / CRM via OData API to replicate (import / export) data
 : ERPs including proALPHA, InforCOM, SAP Business One
@@ -131,13 +128,3 @@ Development of an offline interface between Plant Simulation and Cinema4D for au
 **Technische Universität Ilmenau**
 
 Computer Science, minor: Automation technology
-
-### `09.1995 – 06.2003`
-**Gymnasium Klosterschule Roßleben**
-
-Abitur (Mark: 2.6)
-
-### `10.2000 - 06.2001`
-**Van Wert High School**
-
-Exchange student in Van Wert, OH (USA)

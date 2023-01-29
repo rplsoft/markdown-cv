@@ -29,27 +29,24 @@ Freiberuflicher Software-Entwickler, wohnhaft in 71522 Backnang (Großraum Stutt
 
 ### Vorstellung
 
-Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Angebunden waren dabei waren auch immer diverse Datenbanken (u.a. MSSQL, SQLite, Oracle) und Frontends (TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS). Bezüglich .NET Bibliotheken habe ich besonders viel Erfahrung mit [AutoMapper](https://automapper.org/), [Autofac](https://autofac.org/) und [NHibernate](https://nhibernate.info/).
-
-Sauberer und gepflegter Code, automatisierte Tests und Dokumentation gehören für mich dazu. Meine Arbeit organisiere ich am liebsten in einem Ticketsystem. Eine Versionsverwaltung zur Ablage von Code und Dokumenten bildet die Grundlage. Für sehr hilfreich halte ich eine Build-Pipeline bzw. Continuous Integration (hier habe ich viel Erfahrung mit [JetBrains TeamCity](https://www.jetbrains.com/teamcity/)).
+Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein technischer Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Angebunden waren dabei auch immer verschiedene Datenbanken (u.a. MSSQL, SQLite, Oracle) und Frontends (TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS).
 
 Grundsätzlich scheue ich keine Herausforderung und freue mich auf interessante Projekte, neue Technologien und eine gute Zusammenarbeit.
 
-### Interessen / Hobbies
-
-Fahrrad, Reisen, Kochen, Backen, Garten
-
-## Berufliche Erfahrung
+## Berufliche&nbsp;Erfahrung
 
 ### `01.2020 - 12.2022`
 **Softwareentwicklung nebenberuflich**
 
-Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswertung von Klausurprüfungen\
+Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswertung von Klausurprüfungen in Papierform\
 (Python, Django, ReactJS, SQLite, Docker)
 
 ### `12.2015 - 12.2022`
 **Softwareentwickler - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
+Arbeit in einem agilen Team in der Produktentwicklung. Dies beinhaltete Bugfixing, Feature-Konzeption und -Entwicklung, Softwarearchitektur und Schnittstellenentwurf um das Zusammenspiel der verschiedenen Komponenten sicherzustellen. Darüber hinaus Pflege der Build-Pipeline und Erstellung von Dokumentationen und Schulungsmaterial.
+
+<br>
 2020-2022
 : Schnittstellenentwicklung zur Datenreplikation (Import / Export) zwischen ERP und Field Service Management Software / CRM per OData API
 : ERPs u.a. proALPHA, InforCOM, SAP Business One
@@ -61,7 +58,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 
 2016-2022
 : Wartung und Weiterentwicklung einer Field Service Management Software / CRM
-: (C#, ASP.NET, JavaScript, MSSQL)
+: (C#, ASP.NET, JavaScript, TypeScript, KnockoutJS, NHibernate, MSSQL)
 
 2016-2022
 : Wartung und Weiterentwicklung einer Planungssoftware zur Planung von Technikereinsätzen
@@ -130,13 +127,3 @@ Entwicklung einer Offline-Schnittstelle zwischen Plant Simulation und Cinema4D z
 **Technische Universität Ilmenau**
 
 Informatik, Nebenfach: Automatisierungstechnik
-
-### `09.1995 – 06.2003`
-**Gymnasium Klosterschule Roßleben**
-
-Abitur / Allgemeine Hochschulreife (Note: 2,6)
-
-### `10.2000 - 06.2001`
-**Van Wert High School**
-
-Austauschschüler in Van Wert, OH (USA)

@@ -55,12 +55,15 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 }
 
-p {
+p,ul,dl,h1,#webaddress {
 	position: relative;
-	left: 25%;
+	left: 23%;
+	width: 70%;
+}
+
+p {
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 70%;
 }
 
 code {
@@ -77,9 +80,6 @@ p code {
 }
 
 ul,dl {
-	position: relative;
-	left: 25%;
-	width: 70%;
 	margin-bottom: 1em;
 }
 
@@ -121,8 +121,6 @@ h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	position: relative;
-	left: 25%;
 }
 
 h1+p {
@@ -161,8 +159,6 @@ a:hover {
 
 #webaddress {
 	margin-top: 1em;
-	position: relative;
-	left: 25%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
