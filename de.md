@@ -44,7 +44,7 @@ Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswe
 ### `12.2015 - 12.2022`
 **Softwareentwickler - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
-Arbeit in einem agilen Team in der Produktentwicklung. Dies beinhaltete Bugfixing, Feature-Konzeption und -Entwicklung, Softwarearchitektur und Schnittstellenentwurf um das Zusammenspiel der verschiedenen Komponenten sicherzustellen. Darüber hinaus Pflege der Build-Pipeline und Erstellung von Dokumentationen und Schulungsmaterial.
+Arbeit in einem agilen Team in der Produktentwicklung. Dies beinhaltete Bugfixing, Feature-Konzeption und -Entwicklung, Softwarearchitektur und Schnittstellenentwurf um das Zusammenspiel der verschiedenen Komponenten sicherzustellen. Die Qualität der Umsetzungen wurde über Unit-, bzw. Integrationstests sichergestellt (MSTest, NUnit, Selenium). Darüber hinaus, Pflege der Build-Pipeline (TeamCity) und Erstellung von Dokumentationen und Schulungsmaterial.
 
 <br>
 2020-2022

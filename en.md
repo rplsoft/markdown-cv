@@ -45,7 +45,7 @@ Developing a web based software to automate creation and analysis of written exa
 ### `12.2015 - 12.2022`
 **Software Developer - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
-Working in an agile team in product development. This included bug fixing, feature development and conception, software architecture and interface design to ensure working interaction of the various components. Additionally maintaining the build pipeline and creating documentation and training materials.
+Working in an agile team in product development. This included bug fixing, feature development and conception, software architecture and interface design to ensure working interaction of the various components. The quality of the implementations was ensured by unit and integration tests (MSTest, NUnit, Selenium). Additionally, maintaining the build pipeline (TeamCity) and creating documentation and training materials.
 
 <br>
 2020-2022
